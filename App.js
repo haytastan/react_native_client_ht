@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- *
+ * Dr. Hayati TAŞTAN
  * @format
  * @flow strict-local
  */
